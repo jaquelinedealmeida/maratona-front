@@ -1,4 +1,4 @@
-# Maratona | Seu Projeto no Ar - Front-end 🚀 
+# Maratona | Seu Projeto no Ar - Front-end 🚀
 
 ![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
 <aside>
@@ -17,7 +17,7 @@
 
 - Com seu repositório baixado na sua máquina, execute o comando ``npm install`` na pasta dentro projeto clonado para instalar todas as dependências.
 
-- Agora rode o projeto com o comando ``npm run dev`` 
+- Agora rode o projeto com o comando ``npm run dev``
 
 ## `Apresentação`
 
@@ -156,21 +156,14 @@ return <ul>{elementosDaLista}</ul>;
 -----
 _Vai ser incrível compartilhar essa jornada com você! Qualquer dúvida ou sugestão, chama no contatinho!_
 
- <img src="https://media.giphy.com/media/efhcZv18NpQDyRsaYa/giphy.gif" alt="Gif Yeah" width="200"> 
+ <img src="https://media.giphy.com/media/efhcZv18NpQDyRsaYa/giphy.gif" alt="Gif Yeah" width="200">
 
-# Simara Conceição
-✓	Desenvolvedora na Thoughtworks
+# Jaqueline de Almeida
+✓	Desenvolvedora de software
+### Pra gente se conectar!
 
-✓	Criadora do Quero Ser Dev, projeto que inspira e ajuda pessoas diversas na migração de carreira pra área de tecnologia.
-
-### Vamos nos conectar!
-
-- [youtube](https://www.youtube.com/queroserdev)
-- [instagram](https://www.instagram.com/simara_conceicao)
-- [linkedin](https://www.linkedin.com/in/simaraconceicao/)
-- [github](https://github.com/simaraconceicao)
-- [spotify](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3)
-- [quero ser dev](https://queroserdev.com)
+- [linkedin](https://www.linkedin.com/in/jaqueline-de-almeida/)
+- [github](https://github.com/jaquelinedealmeida)
 
 <br>
-Feito com 💜 por Simara Conceição | Quero Ser Dev
+Feito com 💜 por Jaqueline de Almeida | Quero Ser Dev
