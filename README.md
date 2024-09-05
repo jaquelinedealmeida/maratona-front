@@ -2,8 +2,7 @@
 
 ![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
 <aside>
-⚠️ Este repositório é um template feito para ensinar fundamentos de desenvolvimento web para pessoas iniciantes.
-</aside>
+
 
 <br>
 
@@ -24,7 +23,7 @@
 ✓		[Slides](https://www.canva.com/design/DAF91GMXJqk/7JD35oioymzZsDEICh_0MA/edit?utm_content=DAF91GMXJqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-## ReactJS para Iniciantes - Guia Rápido
+## ReactJS - Guia Rápido
 
 ### O que é ReactJS?
 ReactJS é uma biblioteca JavaScript para construir interfaces da pessoa usuária. Ele foi desenvolvido pelo Facebook e é mantido pela comunidade de software livre.
@@ -151,12 +150,7 @@ const elementosDaLista = listaDeItens.map(item => (
 
 return <ul>{elementosDaLista}</ul>;
 
-```
 
------
-_Vai ser incrível compartilhar essa jornada com você! Qualquer dúvida ou sugestão, chama no contatinho!_
-
- <img src="https://media.giphy.com/media/efhcZv18NpQDyRsaYa/giphy.gif" alt="Gif Yeah" width="200">
 
 # Jaqueline de Almeida
 ✓	Desenvolvedora de software
@@ -166,4 +160,4 @@ _Vai ser incrível compartilhar essa jornada com você! Qualquer dúvida ou suge
 - [github](https://github.com/jaquelinedealmeida)
 
 <br>
-Feito com 💜 por Jaqueline de Almeida | Quero Ser Dev
+Feito com 💜 por Jaqueline de Almeida | Amara ComTech
